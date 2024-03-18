@@ -21,7 +21,7 @@ export default function Hero(){
                 <p>I am a Data Engineer at Shopify</p>
             </div>
             <div className="px-4 flex justify-center">
-                <Button as={Link} isIconOnly variant="light" onPress={() => { console.log('click') }}>
+                <Button as={Link} isIconOnly variant="light">
                     <a href="https://github.com/shahaba">
                         <FaGithub />
                     </a>
