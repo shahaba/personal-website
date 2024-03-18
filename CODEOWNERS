@@ -1,0 +1,7 @@
+# React App CODEOWNERS
+
+# Define code owners for specific directories/files
+/src/*         @shahaba
+/public/*      @shahaba
+/package.json  @shahaba
+/README.md     @shahaba
