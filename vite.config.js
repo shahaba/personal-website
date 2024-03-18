@@ -7,5 +7,6 @@ export default defineConfig({
   build: {
     outDir: 'dist', // or 'build'
   },
-  plugins: [react(), tailwindcss(),],
+  plugins: [react(), tailwindcss()],
+  base: "/personal-website/"
 })
