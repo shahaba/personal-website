@@ -21,13 +21,13 @@ export default function Hero(){
                 <p>I am a Data Engineer at Shopify</p>
             </div>
             <div className="px-4 flex justify-center">
-                <Button as={Link} isIconOnly variant="light">
+                <Button isIconOnly variant="light">
                     <a href="https://github.com/shahaba">
                         <FaGithub />
                     </a>
                 </Button>
-                <Button as={Link} isIconOnly variant="light" >
-                    <a href="https://www.linkedin.com/in/shahab-akmal-35012055/">
+                <Button isIconOnly variant="light" >
+                    <a href="https://www.linkedin.com/in/shahab-akmal/">
                         <FaLinkedin />
                     </a>
                 </Button>

@@ -11,7 +11,7 @@ export default function Nav(){
             </NavbarBrand>
         <NavbarContent justify="end">
           <NavbarItem>
-            <Button as={Link} variant="light" startContent={<FaRegFilePdf/>} onPress={() => { console.log('click') }}>
+            <Button variant="light" startContent={<FaRegFilePdf/>}>
               <a href="/resume.pdf">
                 Resume
               </a>
