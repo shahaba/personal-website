@@ -12,7 +12,7 @@ export default function Nav(){
         <NavbarContent justify="end">
           <NavbarItem>
             <Button variant="light" startContent={<FaRegFilePdf/>}>
-              <a href="/resume.pdf">
+              <a href="/personal-website/resume.pdf">
                 Resume
               </a>
             </Button>
