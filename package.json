@@ -1,7 +1,7 @@
 {
   "name": "personal-website",
   "private": true,
-  "homepage": "https://shahaba.github.io/personal-website/",
+  "homepage": "https://shahaba.github.io/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {

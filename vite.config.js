@@ -8,5 +8,4 @@ export default defineConfig({
     outDir: 'dist', // or 'build'
   },
   plugins: [react(), tailwindcss()],
-  base: "/personal-website/"
 })
